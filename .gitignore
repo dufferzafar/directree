@@ -1,4 +1,7 @@
 
+# Assets like bootstrap, jquery etc.
+frontend/static/*/*.min.*
+
 # Created by https://www.gitignore.io/api/python
 
 ### Python ###
